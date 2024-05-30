@@ -20,8 +20,8 @@ function ChatList(props) {
       <div className="item">
         <img src="./avatar.png" alt="" />
         <div className="texts">
-          <span>Cbum</span>
-          <p>Hit the gym u skiny bitch</p>
+          <span>Ayaa</span>
+          <p>jawb lmok </p>
         </div>
       </div>
     </div>
